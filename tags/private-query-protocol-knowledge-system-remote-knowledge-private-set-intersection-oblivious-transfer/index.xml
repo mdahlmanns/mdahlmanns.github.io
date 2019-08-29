@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>private query protocol; knowledge system; remote knowledge; private set intersection; oblivious  transfer | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tags/private-query-protocol-knowledge-system-remote-knowledge-private-set-intersection-oblivious-transfer/</link>
+      <atom:link href="https://mdahlmanns.de/tags/private-query-protocol-knowledge-system-remote-knowledge-private-set-intersection-oblivious-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>private query protocol; knowledge system; remote knowledge; private set intersection; oblivious  transfer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <title>private query protocol; knowledge system; remote knowledge; private set intersection; oblivious  transfer</title>
+      <link>https://mdahlmanns.de/tags/private-query-protocol-knowledge-system-remote-knowledge-private-set-intersection-oblivious-transfer/</link>
+    </image>
+    
+    <item>
+      <title>Privacy-Preserving Remote Knowledge System</title>
+      <link>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
