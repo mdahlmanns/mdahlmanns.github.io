@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/</link>
+      <atom:link href="https://mdahlmanns.de/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Dahlmanns</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <title>Markus Dahlmanns</title>
+      <link>https://mdahlmanns.de/</link>
+    </image>
+    
+    <item>
+      <title>Privacy-Preserving Remote Knowledge System</title>
+      <link>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailoring Onion Routing to the Internet of Things: Security and Privacy in Untrusted Environments</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regaining Insight and Control on SMGW-based Secure Communication in Smart Grids</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</link>
+      <pubDate>Thu, 29 Aug 2019 09:58:11 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mdahlmanns.de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/about/</guid>
+      <description>&lt;p&gt;This page is powered by the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic Theme&lt;/a&gt; for &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.
+Furthermore, it is hosted on &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;Github Pages&lt;/a&gt; and delivered by &lt;a href=&#34;https://www.cloudflare.com/&#34; target=&#34;_blank&#34;&gt;Cloudflare&lt;/a&gt;.
+Hence, the usage of cookies by Github and Cloudflare is outside of my control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://mdahlmanns.de/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/imprint/</guid>
+      <description>
+
+&lt;h2 id=&#34;informationen-gem-5-tmg-seitenbetreiber&#34;&gt;Informationen gem. § 5 TMG Seitenbetreiber&lt;/h2&gt;
+
+&lt;p&gt;Markus Dahlmanns&lt;br /&gt;
+Ahornstraße 55&lt;br /&gt;
+52074 Aachen&lt;br /&gt;
+Deutschland&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Informationen zur Kontaktaufnahme&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tel.: +49 (0) 241 80 21425&lt;br /&gt;
+Fax: +49 (0) 241 80 22222&lt;br /&gt;
+E-Mail: dahlmanns (at) comsys (dot) rwth-aachen (dot) de&lt;/p&gt;
+
+&lt;h2 id=&#34;verantwortlicher-i-s-d-55-abs-2-rstv&#34;&gt;Verantwortlicher i.S.d. § 55 Abs. 2 RStV&lt;/h2&gt;
+
+&lt;p&gt;Markus Dahlmanns&lt;br /&gt;
+Ahornstraße 55&lt;br /&gt;
+52074 Aachen&lt;br /&gt;
+Deutschland&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

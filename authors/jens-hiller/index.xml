@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Hiller | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/authors/jens-hiller/</link>
+      <atom:link href="https://mdahlmanns.de/authors/jens-hiller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jens Hiller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <title>Jens Hiller</title>
+      <link>https://mdahlmanns.de/authors/jens-hiller/</link>
+    </image>
+    
+    <item>
+      <title>Privacy-Preserving Remote Knowledge System</title>
+      <link>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailoring Onion Routing to the Internet of Things: Security and Privacy in Untrusted Environments</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regaining Insight and Control on SMGW-based Secure Communication in Smart Grids</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</link>
+      <pubDate>Thu, 29 Aug 2019 09:58:11 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

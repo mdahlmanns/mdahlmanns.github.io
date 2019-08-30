@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tags/</link>
+      <atom:link href="https://mdahlmanns.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://mdahlmanns.de/tags/</link>
+    </image>
+    
+    <item>
+      <title>private query protocol; knowledge system; remote knowledge; private set intersection; oblivious  transfer</title>
+      <link>https://mdahlmanns.de/tags/private-query-protocol-knowledge-system-remote-knowledge-private-set-intersection-oblivious-transfer/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/tags/private-query-protocol-knowledge-system-remote-knowledge-private-set-intersection-oblivious-transfer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
