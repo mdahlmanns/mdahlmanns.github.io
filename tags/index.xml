@@ -5,12 +5,20 @@
     <link>https://mdahlmanns.de/tags/</link>
       <atom:link href="https://mdahlmanns.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://mdahlmanns.de/tags/</link>
     </image>
+    
+    <item>
+      <title>secure industrial collaboration; interconnected cyber-physical systems; stakeholders; Internet of Production</title>
+      <link>https://mdahlmanns.de/tags/secure-industrial-collaboration-interconnected-cyber-physical-systems-stakeholders-internet-of-production/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/tags/secure-industrial-collaboration-interconnected-cyber-physical-systems-stakeholders-internet-of-production/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>private query protocol; knowledge system; remote knowledge; private set intersection; oblivious  transfer</title>

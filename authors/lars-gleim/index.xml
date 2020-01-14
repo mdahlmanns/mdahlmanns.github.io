@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lars Gleim | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/authors/lars-gleim/</link>
+      <atom:link href="https://mdahlmanns.de/authors/lars-gleim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lars Gleim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <title>Lars Gleim</title>
+      <link>https://mdahlmanns.de/authors/lars-gleim/</link>
+    </image>
+    
+    <item>
+      <title>Security Considerations for Collaborations in an Industrial IoT-based Lab of Labs</title>
+      <link>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
