@@ -5,20 +5,64 @@
     <link>https://mdahlmanns.de/</link>
       <atom:link href="https://mdahlmanns.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Markus Dahlmanns</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright>
     <image>
-      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Markus Dahlmanns</title>
       <link>https://mdahlmanns.de/</link>
     </image>
+    
+    <item>
+      <title>Assessing the Security of OPC UA Deployments</title>
+      <link>https://mdahlmanns.de/publication/2020-roepert-opcua/</link>
+      <pubDate>Wed, 25 Mar 2020 10:28:34 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-roepert-opcua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Considerations for Collaborations in an Industrial IoT-based Lab of Labs</title>
+      <link>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Remote Knowledge System</title>
+      <link>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailoring Onion Routing to the Internet of Things: Security and Privacy in Untrusted Environments</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regaining Insight and Control on SMGW-based Secure Communication in Smart Grids</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</link>
+      <pubDate>Fri, 13 Sep 2019 09:39:07 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
       <link>https://mdahlmanns.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/about/</guid>
-      <description>&lt;p&gt;This page is powered by the &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic Theme&lt;/a&gt; for &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.
-Furthermore, it is hosted on &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; and delivered by &lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt;.
+      <description>&lt;p&gt;This page is powered by the 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Theme&lt;/a&gt; for 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.
+Furthermore, it is hosted on 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Pages&lt;/a&gt; and delivered by 
+&lt;a href=&#34;https://www.cloudflare.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloudflare&lt;/a&gt;.
 Hence, the usage of cookies by Github and Cloudflare is outside of my control.&lt;/p&gt;
 </description>
     </item>
@@ -43,38 +87,6 @@ Ahornstraße 55&lt;br&gt;
 52074 Aachen&lt;br&gt;
 Deutschland&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://mdahlmanns.de/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://mdahlmanns.de/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Talks</title>
-      <link>https://mdahlmanns.de/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Talks</title>
-      <link>https://mdahlmanns.de/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/teaching/</guid>
-      <description></description>
     </item>
     
   </channel>

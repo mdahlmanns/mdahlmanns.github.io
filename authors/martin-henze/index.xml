@@ -5,12 +5,20 @@
     <link>https://mdahlmanns.de/authors/martin-henze/</link>
       <atom:link href="https://mdahlmanns.de/authors/martin-henze/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Henze</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Wed, 25 Mar 2020 10:28:34 +0000</lastBuildDate>
     <image>
-      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Martin Henze</title>
       <link>https://mdahlmanns.de/authors/martin-henze/</link>
     </image>
+    
+    <item>
+      <title>Assessing the Security of OPC UA Deployments</title>
+      <link>https://mdahlmanns.de/publication/2020-roepert-opcua/</link>
+      <pubDate>Wed, 25 Mar 2020 10:28:34 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-roepert-opcua/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tailoring Onion Routing to the Internet of Things: Security and Privacy in Untrusted Environments</title>

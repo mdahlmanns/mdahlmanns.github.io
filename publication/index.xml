@@ -7,10 +7,18 @@
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright>
     <image>
-      <url>https://mdahlmanns.de/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://mdahlmanns.de/publication/</link>
     </image>
+    
+    <item>
+      <title>Assessing the Security of OPC UA Deployments</title>
+      <link>https://mdahlmanns.de/publication/2020-roepert-opcua/</link>
+      <pubDate>Wed, 25 Mar 2020 10:28:34 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-roepert-opcua/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Security Considerations for Collaborations in an Industrial IoT-based Lab of Labs</title>

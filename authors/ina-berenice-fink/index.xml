@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ina Berenice Fink | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/authors/ina-berenice-fink/</link>
+      <atom:link href="https://mdahlmanns.de/authors/ina-berenice-fink/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ina Berenice Fink</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Wed, 25 Mar 2020 10:28:34 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ina Berenice Fink</title>
+      <link>https://mdahlmanns.de/authors/ina-berenice-fink/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the Security of OPC UA Deployments</title>
+      <link>https://mdahlmanns.de/publication/2020-roepert-opcua/</link>
+      <pubDate>Wed, 25 Mar 2020 10:28:34 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-roepert-opcua/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
