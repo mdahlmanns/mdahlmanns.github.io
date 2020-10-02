@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yannik Lockner | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/author/yannik-lockner/</link>
+      <atom:link href="https://mdahlmanns.de/author/yannik-lockner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yannik Lockner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
+      <title>Yannik Lockner</title>
+      <link>https://mdahlmanns.de/author/yannik-lockner/</link>
+    </image>
+    
+    <item>
+      <title>Privacy-Preserving Production Process Parameter Exchange</title>
+      <link>https://mdahlmanns.de/publication/2020-pennekamp-parameter-exchange/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-pennekamp-parameter-exchange/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

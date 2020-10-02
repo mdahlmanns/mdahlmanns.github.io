@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ina Berenice Fink | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/author/ina-berenice-fink/</link>
+      <atom:link href="https://mdahlmanns.de/author/ina-berenice-fink/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ina Berenice Fink</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Fri, 02 Oct 2020 13:02:57 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
+      <title>Ina Berenice Fink</title>
+      <link>https://mdahlmanns.de/author/ina-berenice-fink/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the Security of OPC UA Deployments</title>
+      <link>https://mdahlmanns.de/publication/2020-roepert-opcua/</link>
+      <pubDate>Fri, 02 Oct 2020 13:02:57 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-roepert-opcua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments</title>
+      <link>https://mdahlmanns.de/publication/2020-dahlmanns-imc-opcua/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-dahlmanns-imc-opcua/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

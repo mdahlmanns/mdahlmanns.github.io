@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent Talks | Markus Dahlmanns</title>
+    <title>Recent &amp; Upcoming Talks | Markus Dahlmanns</title>
     <link>https://mdahlmanns.de/talk/</link>
       <atom:link href="https://mdahlmanns.de/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright>
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Recent Talks</title>
+      <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
       <link>https://mdahlmanns.de/talk/</link>
     </image>
     

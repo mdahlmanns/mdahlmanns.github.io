@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Hiller | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/author/jens-hiller/</link>
+      <atom:link href="https://mdahlmanns.de/author/jens-hiller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jens Hiller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Fri, 02 Oct 2020 13:02:57 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
+      <title>Jens Hiller</title>
+      <link>https://mdahlmanns.de/author/jens-hiller/</link>
+    </image>
+    
+    <item>
+      <title>Regaining Insight and Control on SMGW-based Secure Communication in Smart Grids</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</link>
+      <pubDate>Fri, 02 Oct 2020 13:02:57 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-aeit-regaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Remote Knowledge System</title>
+      <link>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailoring Onion Routing to the Internet of Things: Security and Privacy in Untrusted Environments</title>
+      <link>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-hiller-icnp-tailoring-or/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
