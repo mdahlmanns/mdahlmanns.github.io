@@ -5,7 +5,7 @@
     <link>https://mdahlmanns.de/author/martin-henze/</link>
       <atom:link href="https://mdahlmanns.de/author/martin-henze/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Henze</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Sun, 11 Oct 2020 12:37:36 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Henze</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Assessing the Security of OPC UA Deployments</title>
-      <link>https://mdahlmanns.de/publication/2020-roepert-opcua/</link>
-      <pubDate>Sun, 11 Oct 2020 12:37:36 +0000</pubDate>
-      <guid>https://mdahlmanns.de/publication/2020-roepert-opcua/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments</title>
       <link>https://mdahlmanns.de/publication/2020-dahlmanns-imc-opcua/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2020-dahlmanns-imc-opcua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Security of OPC UA Deployments</title>
+      <link>https://mdahlmanns.de/publication/2020-roepert-opcua/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-roepert-opcua/</guid>
       <description></description>
     </item>
     
