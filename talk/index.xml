@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Markus Dahlmanns</title>
+    <title>Talks | Markus Dahlmanns</title>
     <link>https://mdahlmanns.de/talk/</link>
       <atom:link href="https://mdahlmanns.de/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright>
     <image>
       <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://mdahlmanns.de/talk/</link>
     </image>
+    
+    <item>
+      <title>Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments</title>
+      <link>https://mdahlmanns.de/talk/2020-dahlmanns-maprg-opcua/</link>
+      <pubDate>Fri, 06 Nov 2020 14:30:00 +0700</pubDate>
+      <guid>https://mdahlmanns.de/talk/2020-dahlmanns-maprg-opcua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments</title>
+      <link>https://mdahlmanns.de/talk/2020-dahlmanns-imc-opcua/</link>
+      <pubDate>Tue, 27 Oct 2020 16:30:00 -0400</pubDate>
+      <guid>https://mdahlmanns.de/talk/2020-dahlmanns-imc-opcua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Security of OPC UA Deployments</title>
+      <link>https://mdahlmanns.de/talk/2020-roepert-itsec-opcua/</link>
+      <pubDate>Thu, 02 Apr 2020 15:10:00 +0200</pubDate>
+      <guid>https://mdahlmanns.de/talk/2020-roepert-itsec-opcua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regaining Insight and Control on SMGW-based Secure Communication in Smart Grids</title>
+      <link>https://mdahlmanns.de/talk/2019-hiller-aeit-regaining/</link>
+      <pubDate>Thu, 19 Sep 2019 11:45:00 +0200</pubDate>
+      <guid>https://mdahlmanns.de/talk/2019-hiller-aeit-regaining/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
