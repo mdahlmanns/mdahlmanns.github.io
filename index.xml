@@ -5,7 +5,7 @@
     <link>https://mdahlmanns.de/</link>
       <atom:link href="https://mdahlmanns.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Markus Dahlmanns</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
       <title>Markus Dahlmanns</title>
@@ -105,7 +105,7 @@
       <link>https://mdahlmanns.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/about/</guid>
-      <description>&lt;p&gt;This page is powered by the &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; for &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.
+      <description>&lt;p&gt;This page is powered by &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; for &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.
 Furthermore, it is hosted on &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Pages&lt;/a&gt; and delivered by &lt;a href=&#34;https://www.cloudflare.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloudflare&lt;/a&gt;.
 Hence, the usage of cookies by Github and Cloudflare is outside of my control.&lt;/p&gt;
 </description>
