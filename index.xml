@@ -5,12 +5,20 @@
     <link>https://mdahlmanns.de/</link>
       <atom:link href="https://mdahlmanns.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Markus Dahlmanns</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Markus Dahlmanns</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/images/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_2.png</url>
       <title>Markus Dahlmanns</title>
       <link>https://mdahlmanns.de/</link>
     </image>
+    
+    <item>
+      <title>Transparent End-to-End Security for Publish/Subscribe Communication in Cyber-Physical Systems</title>
+      <link>https://mdahlmanns.de/publication/2021-dahlmanns-entrust/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2021-dahlmanns-entrust/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy-Preserving Production Process Parameter Exchange</title>
