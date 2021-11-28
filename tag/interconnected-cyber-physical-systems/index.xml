@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interconnected cyber-physical systems | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tag/interconnected-cyber-physical-systems/</link>
+      <atom:link href="https://mdahlmanns.de/tag/interconnected-cyber-physical-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>interconnected cyber-physical systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Markus Dahlmanns</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
+      <title>interconnected cyber-physical systems</title>
+      <link>https://mdahlmanns.de/tag/interconnected-cyber-physical-systems/</link>
+    </image>
+    
+    <item>
+      <title>Security Considerations for Collaborations in an Industrial IoT-based Lab of Labs</title>
+      <link>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

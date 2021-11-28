@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>secure industrial collaboration | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tag/secure-industrial-collaboration/</link>
+      <atom:link href="https://mdahlmanns.de/tag/secure-industrial-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>secure industrial collaboration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Markus Dahlmanns</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
+      <title>secure industrial collaboration</title>
+      <link>https://mdahlmanns.de/tag/secure-industrial-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Confidential Computing-Induced Privacy Benefits for the Bootstrapping of New Business Relationships</title>
+      <link>https://mdahlmanns.de/publication/2021-pennekamp-bootstrapping/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2021-pennekamp-bootstrapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Production Process Parameter Exchange</title>
+      <link>https://mdahlmanns.de/publication/2020-pennekamp-parameter-exchange/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2020-pennekamp-parameter-exchange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Considerations for Collaborations in an Industrial IoT-based Lab of Labs</title>
+      <link>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-pennekamp-security-considerations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

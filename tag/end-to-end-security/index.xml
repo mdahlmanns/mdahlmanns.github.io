@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>end-to-end security | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tag/end-to-end-security/</link>
+      <atom:link href="https://mdahlmanns.de/tag/end-to-end-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>end-to-end security</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Markus Dahlmanns</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
+      <title>end-to-end security</title>
+      <link>https://mdahlmanns.de/tag/end-to-end-security/</link>
+    </image>
+    
+    <item>
+      <title>Transparent End-to-End Security for Publish/Subscribe Communication in Cyber-Physical Systems</title>
+      <link>https://mdahlmanns.de/publication/2021-dahlmanns-entrust/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2021-dahlmanns-entrust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
