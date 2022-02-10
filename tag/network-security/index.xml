@@ -5,7 +5,7 @@
     <link>https://mdahlmanns.de/tag/network-security/</link>
       <atom:link href="https://mdahlmanns.de/tag/network-security/index.xml" rel="self" type="application/rss+xml" />
     <description>network security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Markus Dahlmanns</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
       <title>network security</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Missed Opportunities: Measuring the Untapped TLS Support in the Industrial Internet of Things</title>
       <link>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</guid>
       <description></description>
     </item>
