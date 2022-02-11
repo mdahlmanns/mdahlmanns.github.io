@@ -2,8 +2,8 @@
   "name": "Markus Dahlmanns",
   "short_name": "Markus Dahlmanns",
   "lang": "en-us",
-  "theme_color": "#bbdefb",
-  "background_color": "#bbdefb",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
     "src": "/media/icon_huc519a01561eda02056d3a1574804194d_16622_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
