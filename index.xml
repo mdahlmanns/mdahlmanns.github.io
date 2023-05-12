@@ -176,10 +176,26 @@
     </item>
     
     <item>
-      <title>Missed Opportunities: Measuring the Untapped TLS Support in the Industrial Internet of Things</title>
-      <link>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</guid>
+      <title>Secrets Revealed in Container Images: An Internet-wide Study on Occurrence and Impact</title>
+      <link>https://mdahlmanns.de/publication/2023-dahlmanns-docker/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-dahlmanns-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interconnected Grid Protection Systems &amp;ndash; Reference Grid For Testing An Adaptive Protection Scheme</title>
+      <link>https://mdahlmanns.de/publication/2023-lorz-cired/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-lorz-cired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offering Two-Way Privacy for Evolved Purchase Inquiries</title>
+      <link>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</guid>
       <description></description>
     </item>
     
@@ -200,10 +216,26 @@
     </item>
     
     <item>
+      <title>Missed Opportunities: Measuring the Untapped TLS Support in the Industrial Internet of Things</title>
+      <link>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Low Latency, Reliable, and Secure Communication for Energy Grid Operations</title>
       <link>https://mdahlmanns.de/talk/low-latency-reliable-and-secure-communication-for-energy-grid-operations/</link>
       <pubDate>Thu, 24 Mar 2022 10:55:00 +0100</pubDate>
       <guid>https://mdahlmanns.de/talk/low-latency-reliable-and-secure-communication-for-energy-grid-operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interconnected network protection systems - the basis for the reliable and safe operation of distribution grids with a high penetration of renewable energies and electric vehicle</title>
+      <link>https://mdahlmanns.de/publication/lorenz-ven-2-us-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/lorenz-ven-2-us-2022/</guid>
       <description></description>
     </item>
     
@@ -519,7 +551,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-628571943&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-457318629&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -529,7 +561,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-628571943&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-457318629&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -5,7 +5,7 @@
     <link>https://mdahlmanns.de/publication-type/1/</link>
       <atom:link href="https://mdahlmanns.de/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Markus Dahlmanns</copyright><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Missed Opportunities: Measuring the Untapped TLS Support in the Industrial Internet of Things</title>
-      <link>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</guid>
+      <title>Secrets Revealed in Container Images: An Internet-wide Study on Occurrence and Impact</title>
+      <link>https://mdahlmanns.de/publication/2023-dahlmanns-docker/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-dahlmanns-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interconnected Grid Protection Systems &amp;ndash; Reference Grid For Testing An Adaptive Protection Scheme</title>
+      <link>https://mdahlmanns.de/publication/2023-lorz-cired/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-lorz-cired/</guid>
       <description></description>
     </item>
     
@@ -29,10 +37,34 @@
     </item>
     
     <item>
+      <title>Missed Opportunities: Measuring the Untapped TLS Support in the Industrial Internet of Things</title>
+      <link>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interconnected network protection systems - the basis for the reliable and safe operation of distribution grids with a high penetration of renewable energies and electric vehicle</title>
+      <link>https://mdahlmanns.de/publication/lorenz-ven-2-us-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/lorenz-ven-2-us-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Collaboration is not Evil: A Systematic Look at Security Research for Industrial Use</title>
       <link>https://mdahlmanns.de/publication/2021-pennekamp-laser/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2021-pennekamp-laser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidential Computing-Induced Privacy Benefits for the Bootstrapping of New Business Relationships</title>
+      <link>https://mdahlmanns.de/publication/2021-pennekamp-bootstrapping/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2021-pennekamp-bootstrapping/</guid>
       <description></description>
     </item>
     

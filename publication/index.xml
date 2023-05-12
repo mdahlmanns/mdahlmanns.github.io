@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Missed Opportunities: Measuring the Untapped TLS Support in the Industrial Internet of Things</title>
-      <link>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</guid>
+      <title>Secrets Revealed in Container Images: An Internet-wide Study on Occurrence and Impact</title>
+      <link>https://mdahlmanns.de/publication/2023-dahlmanns-docker/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-dahlmanns-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interconnected Grid Protection Systems &amp;ndash; Reference Grid For Testing An Adaptive Protection Scheme</title>
+      <link>https://mdahlmanns.de/publication/2023-lorz-cired/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-lorz-cired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offering Two-Way Privacy for Evolved Purchase Inquiries</title>
+      <link>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</guid>
       <description></description>
     </item>
     
@@ -25,6 +41,22 @@
       <link>https://mdahlmanns.de/publication/2022-kus-iids-generalizability/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2022-kus-iids-generalizability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missed Opportunities: Measuring the Untapped TLS Support in the Industrial Internet of Things</title>
+      <link>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2022-dahlmanns-tlsiiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interconnected network protection systems - the basis for the reliable and safe operation of distribution grids with a high penetration of renewable energies and electric vehicle</title>
+      <link>https://mdahlmanns.de/publication/lorenz-ven-2-us-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/lorenz-ven-2-us-2022/</guid>
       <description></description>
     </item>
     
