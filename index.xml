@@ -184,7 +184,7 @@
     </item>
     
     <item>
-      <title>Interconnected Grid Protection Systems &amp;ndash; Reference Grid For Testing An Adaptive Protection Scheme</title>
+      <title>Interconnected Grid Protection Systems - Reference Grid For Testing An Adaptive Protection Scheme</title>
       <link>https://mdahlmanns.de/publication/2023-lorz-cired/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2023-lorz-cired/</guid>
@@ -551,7 +551,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-457318629&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-674253189&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -561,7 +561,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-457318629&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-674253189&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
