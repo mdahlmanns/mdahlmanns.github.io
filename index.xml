@@ -25,7 +25,11 @@
       <link>https://mdahlmanns.de/home/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/home/news/</guid>
-      <description>&lt;h4 id=&#34;2021-10&#34;&gt;2021-10&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;2023-07&#34;&gt;2023-07&lt;/h4&gt;
+&lt;p&gt;📰 Our research on the occurrence and impact of leaked secrets in container images got picked up by &lt;a href=&#34;https://www.bleepingcomputer.com/news/security/thousands-of-images-on-docker-hub-leak-auth-secrets-private-keys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bleeping Computer&lt;/a&gt;, &lt;a href=&#34;https://www.golem.de/news/nutzerdaten-in-gefahr-viele-geteilte-docker-images-enthalten-private-schluessel-2307-175907.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Golem.de (in German)&lt;/a&gt;, &lt;a href=&#34;https://www.techradar.com/pro/thousands-of-docker-container-images-could-be-leaking-security-secrets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TechRadar&lt;/a&gt;, &lt;a href=&#34;https://www.darkreading.com/cloud/docker-leaks-api-secrets-private-keys-cybercriminals&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DarkReading&lt;/a&gt;, &lt;a href=&#34;https://www.teiss.co.uk/news/thousands-of-images-on-docker-hub-expose-private-keys-and-auth-secrets-12544&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;teiss&lt;/a&gt;, &lt;a href=&#34;https://www.itnews.com.au/news/docker-users-careless-with-secrets-598122&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itnews&lt;/a&gt;, &lt;a href=&#34;https://www.techzine.nl/nieuws/security/527080/tienduizenden-docker-hub-container-images-stellen-gevoelige-data-bloot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Techzine.nl (in Dutch)&lt;/a&gt;, and&lt;a href=&#34;https://www.infopoint-security.de/maschinenidentitaeten-durch-oeffentlich-zugaengliche-docker-images-gefaehrdet/a34840/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Infopoint Security (in German)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;2023-03&#34;&gt;2023-03&lt;/h4&gt;
+&lt;p&gt;📄 Our &lt;a href=&#34;publication/2023-dahlmanns-docker&#34;&gt;paper&lt;/a&gt; on the occurrence and impact of leaked secrets in container images got accepted at &lt;a href=&#34;https://asiaccs2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASIACCS 2023&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;2021-10&#34;&gt;2021-10&lt;/h4&gt;
 &lt;p&gt;📄 Our &lt;a href=&#34;publication/2022-dahlmanns-tlsiiot&#34;&gt;paper&lt;/a&gt; on untapped TLS support in the (Industrial) Internet of Things got accepted at &lt;a href=&#34;https://asiaccs2022.conferenceservice.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASIACCS 2022&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;2021-04&#34;&gt;2021-04&lt;/h4&gt;
 &lt;p&gt;📰 I got interviewed about further details on our OPC UA Internet-wide security assessment. The interview is published in &lt;a href=&#34;https://www.elektro.net/119653/opc-ua-in-der-anwendung/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;das elektohandwerk (in German)&lt;/a&gt;.&lt;/p&gt;
@@ -567,7 +571,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-182547396&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-351479682&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -577,7 +581,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-182547396&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-351479682&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
