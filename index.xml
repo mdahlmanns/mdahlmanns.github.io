@@ -180,6 +180,14 @@
     </item>
     
     <item>
+      <title>Poster: Bridging Trust Gaps: Data Usage Transparency in Federated Data Ecosystems</title>
+      <link>https://mdahlmanns.de/publication/2023-lohmoeller-transparency/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-lohmoeller-transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Secrets Revealed in Container Images: An Internet-wide Study on Occurrence and Impact</title>
       <link>https://mdahlmanns.de/talk/secrets-revealed-in-container-images-an-internet-wide-study-on-occurrence-and-impact/</link>
       <pubDate>Fri, 14 Jul 2023 13:40:00 +1000</pubDate>
@@ -571,7 +579,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-351479682&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-435217869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -581,7 +589,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-351479682&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-435217869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
