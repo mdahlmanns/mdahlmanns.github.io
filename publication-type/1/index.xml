@@ -5,12 +5,36 @@
     <link>https://mdahlmanns.de/publication-type/1/</link>
       <atom:link href="https://mdahlmanns.de/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://mdahlmanns.de/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Protocol Security in the Industrial Internet of Things</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-doctoralsym/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-doctoralsym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unconsidered Installations: Discovering IoT Deployments in the IPv6 Internet</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-ipv-6-deployments/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-ipv-6-deployments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collectively Enhancing IoT Security: A Privacy-Aware Crowd-Sourcing Approach</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-fps/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-fps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poster: Bridging Trust Gaps: Data Usage Transparency in Federated Data Ecosystems</title>
@@ -29,7 +53,7 @@
     </item>
     
     <item>
-      <title>Interconnected Grid Protection Systems - Reference Grid For Testing An Adaptive Protection Scheme</title>
+      <title>Interconnected grid protection systems - reference grid for testing an adaptive protection scheme</title>
       <link>https://mdahlmanns.de/publication/2023-lorz-cired/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2023-lorz-cired/</guid>

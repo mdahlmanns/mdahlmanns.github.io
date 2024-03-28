@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tag/security/</link>
+      <atom:link href="https://mdahlmanns.de/tag/security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Security</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
+      <title>Security</title>
+      <link>https://mdahlmanns.de/tag/security/</link>
+    </image>
+    
+    <item>
+      <title>Unconsidered Installations: Discovering IoT Deployments in the IPv6 Internet</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-ipv-6-deployments/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-ipv-6-deployments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

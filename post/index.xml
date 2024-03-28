@@ -5,7 +5,7 @@
     <link>https://mdahlmanns.de/post/</link>
       <atom:link href="https://mdahlmanns.de/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Markus Dahlmanns</copyright>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -243,7 +243,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-328671594&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-396714528&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +253,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-328671594&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-396714528&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

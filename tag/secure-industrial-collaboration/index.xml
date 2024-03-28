@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>secure industrial collaboration | Markus Dahlmanns</title>
+    <title>Secure Industrial Collaboration | Markus Dahlmanns</title>
     <link>https://mdahlmanns.de/tag/secure-industrial-collaboration/</link>
       <atom:link href="https://mdahlmanns.de/tag/secure-industrial-collaboration/index.xml" rel="self" type="application/rss+xml" />
-    <description>secure industrial collaboration</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <description>Secure Industrial Collaboration</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
-      <title>secure industrial collaboration</title>
+      <title>Secure Industrial Collaboration</title>
       <link>https://mdahlmanns.de/tag/secure-industrial-collaboration/</link>
     </image>
+    
+    <item>
+      <title>Offering Two-Way Privacy for Evolved Purchase Inquiries</title>
+      <link>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolving the Digital Industrial Infrastructure for Production: Steps Taken and the Road Ahead</title>
       <link>https://mdahlmanns.de/publication/2023-pennekamp-crd-a-i/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2023-pennekamp-crd-a-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Offering Two-Way Privacy for Evolved Purchase Inquiries</title>
-      <link>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</guid>
       <description></description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>data ecosystems | Markus Dahlmanns</title>
+    <title>Data Ecosystems | Markus Dahlmanns</title>
     <link>https://mdahlmanns.de/tag/data-ecosystems/</link>
       <atom:link href="https://mdahlmanns.de/tag/data-ecosystems/index.xml" rel="self" type="application/rss+xml" />
-    <description>data ecosystems</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <description>Data Ecosystems</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
-      <title>data ecosystems</title>
+      <title>Data Ecosystems</title>
       <link>https://mdahlmanns.de/tag/data-ecosystems/</link>
     </image>
     

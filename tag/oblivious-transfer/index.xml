@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>oblivious  transfer | Markus Dahlmanns</title>
+    <title>Oblivious Transfer | Markus Dahlmanns</title>
     <link>https://mdahlmanns.de/tag/oblivious-transfer/</link>
       <atom:link href="https://mdahlmanns.de/tag/oblivious-transfer/index.xml" rel="self" type="application/rss+xml" />
-    <description>oblivious  transfer</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2023 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <description>Oblivious Transfer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
-      <title>oblivious  transfer</title>
+      <title>Oblivious Transfer</title>
       <link>https://mdahlmanns.de/tag/oblivious-transfer/</link>
     </image>
     
@@ -17,14 +17,6 @@
       <link>https://mdahlmanns.de/publication/2020-pennekamp-parameter-exchange/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2020-pennekamp-parameter-exchange/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy-Preserving Remote Knowledge System</title>
-      <link>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</guid>
       <description></description>
     </item>
     
