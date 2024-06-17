@@ -1,0 +1,1817 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: June 17, 2024 --><html lang="en-us" dir="ltr"
+      data-wc-theme-default="system">
+  
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.2.0" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Markus Dahlmanns" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Personal webpage of Markus Dahlmanns - Researcher in security and privacy." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/emerald.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Markus Dahlmanns" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_huc519a01561eda02056d3a1574804194d_16622_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huc519a01561eda02056d3a1574804194d_16622_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://localhost:1313/publication/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Markus Dahlmanns" />
+  <meta property="og:url" content="http://localhost:1313/publication/" />
+  <meta property="og:title" content="Publications | Markus Dahlmanns" />
+  <meta property="og:description" content="Personal webpage of Markus Dahlmanns - Researcher in security and privacy." /><meta property="og:image" content="http://localhost:1313/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+  
+
+  
+
+
+
+
+  <title>Publications | Markus Dahlmanns</title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Markus Dahlmanns">
+        Your Name
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/"
+        >Bio</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="#news"
+        >News</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/publication"
+        >Publications</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/event"
+        >Talks</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="#contact"
+        >Contact</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+      <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div id="search" class="hidden p-3"></div>
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">Publications</h1>
+    
+  </article>
+</div>
+
+
+
+
+<div class="flex flex-col items-center">
+
+  
+<div class="mt-16 sm:mt-20 container max-w-3xl w-full">
+  <div class="flex flex-col space-y-3">
+
+
+  
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Matthias Lorenz</span>, <span >
+      Tobias Markus Pletzer</span>, <span >
+      Malte Schuhmacher</span>, <span >
+      Torsten Sowa</span>, <span >
+      Michael Dahms</span>, <span >
+      Simon Stock</span>, <span >
+      Davood Babazadeh</span>, <span >
+      Christian Becker</span>, <span >
+      Johann Jaeger</span>, <span >
+      Tobias Lorz</span>, <span >
+      Markus Dahlmanns</span>, <span >
+      Ina Berenice Fink</span>, <span >
+      Klaus Wehrle</span>, <span >
+      Andreas Ulbig</span>, <span >
+      Philipp Linnartz</span>, <span >
+      Antigona Selimaj</span>, <span >
+      Thomas Offergeld</span>
+  </span>
+  (2022).
+  <a href="/publication/2022-lorenz-ven-2-us/" class="underline">Interconnected network protection systems - the basis for the reliable and safe operation of distribution grids with a high penetration of renewable energies and electric vehicle</a>.
+  <em>Proceedings of the CIRED workshop on E-mobility and power distribution systems 2022, June 2-3, 2022, Porto, Portugal</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2022-lorenz-ven-2-us/cite.bib" target="_blank" data-filename="/publication/2022-lorenz-ven-2-us/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1049/icp.2022.0768" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Jan Pennekamp</span>, <span >
+      Erik Buchholz</span>, <span >
+      Markus Dahlmanns</span>, <span >
+      Ike Kunze</span>, <span >
+      Stefan Braun</span>, <span >
+      Eric Wagner</span>, <span >
+      Matthias Brockmann</span>, <span >
+      Klaus Wehrle</span>, <span >
+      Martin Henze</span>
+  </span>
+  (2021).
+  <a href="/publication/2021-pennekamp-laser/" class="underline">Collaboration is not Evil: A Systematic Look at Security Research for Industrial Use</a>.
+  <em>Proceedings of the Workshop on Learning from Authoritative Security Experiment Results (LASER &lsquo;20), co-located with the 36th Annual Computer Security Applications Conference (ACSAC &lsquo;20), December 7-11, 2020, Austin, TX, USA</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2021-pennekamp-laser/2021-pennekamp-laser.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2021-pennekamp-laser/cite.bib" target="_blank" data-filename="/publication/2021-pennekamp-laser/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.14722/laser-acsac.2020.23088" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Jan Pennekamp</span>, <span >
+      Frederik Fuhrmann</span>, <span >
+      Markus Dahlmanns</span>, <span >
+      Timo Heutmann</span>, <span >
+      Alexander Kreppein</span>, <span >
+      Dennis Grunert</span>, <span >
+      Christoph Lange</span>, <span >
+      Robert H. Schmitt</span>, <span >
+      Klaus Wehrle</span>
+  </span>
+  (2021).
+  <a href="/publication/2021-pennekamp-bootstrapping/" class="underline">Confidential Computing-Induced Privacy Benefits for the Bootstrapping of New Business Relationships</a>.
+  <em>Blitz Talk at the 2021 Cloud Computing Security Workshop (CCSW &lsquo;21), co-located with the 28th ACM SIGSAC Conference on Computer and Communications Security (CCS &lsquo;21), November 15-19, 2021, Seoul, Korea</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2021-pennekamp-bootstrapping/2021-pennekamp-bootstrapping.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2021-pennekamp-bootstrapping/cite.bib" target="_blank" data-filename="/publication/2021-pennekamp-bootstrapping/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.18154/RWTH-2021-09499" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Markus Dahlmanns</span>, <span >
+      Jan Pennekamp</span>, <span >
+      Ina Berenice Fink</span>, <span >
+      Bernd Schoolmann</span>, <span >
+      Klaus Wehrle</span>, <span >
+      Martin Henze</span>
+  </span>
+  (2021).
+  <a href="/publication/2021-dahlmanns-entrust/" class="underline">Transparent End-to-End Security for Publish/Subscribe Communication in Cyber-Physical Systems</a>.
+  <em>Proceedings of the 1st ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS &lsquo;21), co-located with the 11th ACM Conference on Data and Application Security and Privacy (CODASPY &lsquo;21), April 26-28, 2021, Virtual Event, USA</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2021-dahlmanns-entrust/2021-dahlmanns-entrust.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2021-dahlmanns-entrust/cite.bib" target="_blank" data-filename="/publication/2021-dahlmanns-entrust/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1145/3445969.3450423" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Jan Pennekamp</span>, <span >
+      Erik Buchholz</span>, <span >
+      Yannik Lockner</span>, <span >
+      Markus Dahlmanns</span>, <span >
+      Tiandong Xi</span>, <span >
+      Marcel Fey</span>, <span >
+      Christian Brecher</span>, <span >
+      Christian Hopmann</span>, <span >
+      Klaus Wehrle</span>
+  </span>
+  (2020).
+  <a href="/publication/2020-pennekamp-parameter-exchange/" class="underline">Privacy-Preserving Production Process Parameter Exchange</a>.
+  <em>Proceedings of the 36th Annual Computer Security Applications Conference (ACSAC &lsquo;20), December 7-11, 2020, Austin, TX, USA</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2020-pennekamp-parameter-exchange/2020-pennekamp-parameter-exchange.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2020-pennekamp-parameter-exchange/cite.bib" target="_blank" data-filename="/publication/2020-pennekamp-parameter-exchange/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1145/3427228.3427248" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Markus Dahlmanns</span>, <span >
+      Johannes Lohmöller</span>, <span >
+      Ina Berenice Fink</span>, <span >
+      Jan Pennekamp</span>, <span >
+      Klaus Wehrle</span>, <span >
+      Martin Henze</span>
+  </span>
+  (2020).
+  <a href="/publication/2020-dahlmanns-imc-opcua/" class="underline">Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments</a>.
+  <em>Proceedings of the Internet Measurement Conference (IMC &lsquo;20), October 27-29, 2020, Pittsburgh, PA, USA</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2020-dahlmanns-imc-opcua/2020-dahlmanns-imc-opcua.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2020-dahlmanns-imc-opcua/cite.bib" target="_blank" data-filename="/publication/2020-dahlmanns-imc-opcua/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1145/3419394.3423666" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Linus Roepert</span>, <span >
+      Markus Dahlmanns</span>, <span >
+      Ina Berenice Fink</span>, <span >
+      Jan Pennekamp</span>, <span >
+      Martin Henze</span>
+  </span>
+  (2020).
+  <a href="/publication/2020-roepert-opcua/" class="underline">Assessing the Security of OPC UA Deployments</a>.
+  <em>Proceedings of the 1st ITG Workshop on IT Security (ITSec &lsquo;20), April 2-3, 2020, Tübingen, Germany</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2020-roepert-opcua/2020-roepert-opcua.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2020-roepert-opcua/cite.bib" target="_blank" data-filename="/publication/2020-roepert-opcua/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.15496/publikation-41813" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Jan Pennekamp</span>, <span >
+      Markus Dahlmanns</span>, <span >
+      Lars Gleim</span>, <span >
+      Stefan Decker</span>, <span >
+      Klaus Wehrle</span>
+  </span>
+  (2019).
+  <a href="/publication/2019-pennekamp-security-considerations/" class="underline">Security Considerations for Collaborations in an Industrial IoT-based Lab of Labs</a>.
+  <em>Proceedings of the 3rd IEEE Global Conference on Internet of Things (GCIoT &lsquo;19), December 4–7, 2019, Dubai, United Arab Emirates</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2019-pennekamp-security-considerations/2019-pennekamp-security-considerations.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2019-pennekamp-security-considerations/cite.bib" target="_blank" data-filename="/publication/2019-pennekamp-security-considerations/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1109/GCIoT47977.2019.9058413" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Jens Hiller</span>, <span >
+      Jan Pennekamp</span>, <span >
+      Markus Dahlmanns</span>, <span >
+      Martin Henze</span>, <span >
+      Andriy Panchenko</span>, <span >
+      Klaus Wehrle</span>
+  </span>
+  (2019).
+  <a href="/publication/2019-hiller-icnp-tailoring-or/" class="underline">Tailoring Onion Routing to the Internet of Things: Security and Privacy in Untrusted Environments</a>.
+  <em>Proceedings of the 27th IEEE International Conference on Network Protocols (ICNP &lsquo;19), October 7-10, 2019, Chicago, IL, USA</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2019-hiller-icnp-tailoring-or/2019-hiller-icnp-tailoring-or.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2019-hiller-icnp-tailoring-or/cite.bib" target="_blank" data-filename="/publication/2019-hiller-icnp-tailoring-or/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1109/ICNP.2019.8888033" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Markus Dahlmanns</span>, <span >
+      Chris Dax</span>, <span >
+      Roman Matzutt</span>, <span >
+      Jan Pennekamp</span>, <span >
+      Jens Hiller</span>, <span >
+      Klaus Wehrle</span>
+  </span>
+  (2019).
+  <a href="/publication/2019-dahlmanns-icnp-knowledge-system/" class="underline">Privacy-Preserving Remote Knowledge System</a>.
+  <em>Proceedings of the 27th IEEE International Conference on Network Protocols (ICNP &lsquo;19), October 7-10, 2019, Chicago, IL, USA</em>.
+  
+
+  
+  <div class="flex space-x-3">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2019-dahlmanns-icnp-knowledge-system/2019-dahlmanns-icnp-knowledge-system.pdf" target="_blank" rel="noopener">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/></svg>
+  PDF
+</a>
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="/publication/2019-dahlmanns-icnp-knowledge-system/cite.bib" target="_blank" data-filename="/publication/2019-dahlmanns-icnp-knowledge-system/cite.bib">
+  <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/></svg>
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="hb-attachment-link hb-attachment-small" href="https://doi.org/10.1109/ICNP.2019.8888121" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+  
+  
+</div>
+
+  
+
+  </div>
+</div>
+
+
+  
+<nav class="mt-1">
+  <ul class="container mx-auto flex justify-center">
+    
+    <li class="p-5"><a class="page-link" href="/publication/">&laquo; Previous</a></li>
+    
+    
+    <li class="p-5"><a class="page-link" href="/publication/page/3/">Next &raquo;</a></li>
+    
+  </ul>
+</nav>
+
+
+
+</div>
+
+
+    </div>
+    <div class="page-footer">
+      <footer class="site-footer">
+  <p class="powered-by">
+    © 2024 Markus Dahlmanns &middot; 
+
+    Last updated on Mon, 17 Jun 2024 12:42:27 (CEST)
+
+    &middot;
+    <a href="/about">About this page</a>
+    &middot;
+    <a href="/imprint">Impressum (Imprint)</a>
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

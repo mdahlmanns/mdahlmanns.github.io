@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Unconsidered Installations: Discovering IoT Deployments in the IPv6 Internet</title>
+      <link>https://mdahlmanns.de/talk/unconsidered-installations-discovering-iot-deployments-in-the-ipv6-internet/</link>
+      <pubDate>Fri, 10 May 2024 09:00:00 +0900</pubDate>
+      <guid>https://mdahlmanns.de/talk/unconsidered-installations-discovering-iot-deployments-in-the-ipv6-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol Security in the Industrial Internet of Things</title>
+      <link>https://mdahlmanns.de/talk/protocol-security-in-the-industrial-internet-of-things/</link>
+      <pubDate>Thu, 09 May 2024 09:00:00 +0900</pubDate>
+      <guid>https://mdahlmanns.de/talk/protocol-security-in-the-industrial-internet-of-things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Protocol Security in the Industrial Internet of Things</title>
       <link>https://mdahlmanns.de/publication/2024-dahlmanns-doctoralsym/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
@@ -33,6 +49,14 @@
       <link>https://mdahlmanns.de/publication/2024-dahlmanns-fps/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://mdahlmanns.de/publication/2024-dahlmanns-fps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collectively Enhancing IoT Security: A Privacy-Aware Crowd-Sourcing Approach</title>
+      <link>https://mdahlmanns.de/talk/collectively-enhancing-iot-security-a-privacy-aware-crowd-sourcing-approach/</link>
+      <pubDate>Mon, 11 Dec 2023 11:45:00 +0100</pubDate>
+      <guid>https://mdahlmanns.de/talk/collectively-enhancing-iot-security-a-privacy-aware-crowd-sourcing-approach/</guid>
       <description></description>
     </item>
     
@@ -483,7 +507,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-397524861&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-463857219&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -493,7 +517,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-397524861&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-463857219&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
