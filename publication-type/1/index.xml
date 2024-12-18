@@ -5,12 +5,44 @@
     <link>https://mdahlmanns.de/publication-type/1/</link>
       <atom:link href="https://mdahlmanns.de/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 Markus Dahlmanns</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdahlmanns.de/media/icon_huc519a01561eda02056d3a1574804194d_16622_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://mdahlmanns.de/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>MapXchange: Designing a Confidentiality-Preserving Platform for Exchanging Technology Parameter Maps</title>
+      <link>https://mdahlmanns.de/publication/2025-pennekamp-mapxchange/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2025-pennekamp-mapxchange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUA-IoT: Let&#39;s Usably Authenticate the IoT</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-lua-iot/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-lua-iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient Control Center to Substation Device Communication</title>
+      <link>https://mdahlmanns.de/publication/2024-fink-cired/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-fink-cired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable and Secure Control Center to Station Device Communication</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-cired/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-cired/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protocol Security in the Industrial Internet of Things</title>

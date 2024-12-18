@@ -13,6 +13,46 @@
     </image>
     
     <item>
+      <title>MapXchange: Designing a Confidentiality-Preserving Platform for Exchanging Technology Parameter Maps</title>
+      <link>https://mdahlmanns.de/publication/2025-pennekamp-mapxchange/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2025-pennekamp-mapxchange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUA-IoT: Let&#39;s Usably Authenticate the IoT</title>
+      <link>https://mdahlmanns.de/talk/lua-iot-lets-usably-authenticate-the-iot/</link>
+      <pubDate>Wed, 20 Nov 2024 16:00:00 +0900</pubDate>
+      <guid>https://mdahlmanns.de/talk/lua-iot-lets-usably-authenticate-the-iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUA-IoT: Let&#39;s Usably Authenticate the IoT</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-lua-iot/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-lua-iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient Control Center to Substation Device Communication</title>
+      <link>https://mdahlmanns.de/publication/2024-fink-cired/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-fink-cired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable and Secure Control Center to Station Device Communication</title>
+      <link>https://mdahlmanns.de/publication/2024-dahlmanns-cired/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2024-dahlmanns-cired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unconsidered Installations: Discovering IoT Deployments in the IPv6 Internet</title>
       <link>https://mdahlmanns.de/talk/unconsidered-installations-discovering-iot-deployments-in-the-ipv6-internet/</link>
       <pubDate>Fri, 10 May 2024 09:00:00 +0900</pubDate>
@@ -507,7 +547,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-463857219&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-798325416&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -517,7 +557,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-463857219&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-798325416&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
