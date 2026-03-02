@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Private Set Intersection | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tags/private-set-intersection/</link>
+      <atom:link href="https://mdahlmanns.de/tags/private-set-intersection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Private Set Intersection</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_hu_9af8cbb2a0e56fd6.png</url>
+      <title>Private Set Intersection</title>
+      <link>https://mdahlmanns.de/tags/private-set-intersection/</link>
+    </image>
+    
+    <item>
+      <title>Offering Two-Way Privacy for Evolved Purchase Inquiries</title>
+      <link>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-pennekamp-purchase-inquiries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Remote Knowledge System</title>
+      <link>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2019-dahlmanns-icnp-knowledge-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

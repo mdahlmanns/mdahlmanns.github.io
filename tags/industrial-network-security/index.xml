@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industrial Network Security | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tags/industrial-network-security/</link>
+      <atom:link href="https://mdahlmanns.de/tags/industrial-network-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Industrial Network Security</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_hu_9af8cbb2a0e56fd6.png</url>
+      <title>Industrial Network Security</title>
+      <link>https://mdahlmanns.de/tags/industrial-network-security/</link>
+    </image>
+    
+    <item>
+      <title>Evolving the Digital Industrial Infrastructure for Production: Steps Taken and the Road Ahead</title>
+      <link>https://mdahlmanns.de/publication/2023-pennekamp-crd-a-i/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-pennekamp-crd-a-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

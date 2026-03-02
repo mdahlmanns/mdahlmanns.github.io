@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transparency Logs | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tags/transparency-logs/</link>
+      <atom:link href="https://mdahlmanns.de/tags/transparency-logs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transparency Logs</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_hu_9af8cbb2a0e56fd6.png</url>
+      <title>Transparency Logs</title>
+      <link>https://mdahlmanns.de/tags/transparency-logs/</link>
+    </image>
+    
+    <item>
+      <title>Poster: Bridging Trust Gaps: Data Usage Transparency in Federated Data Ecosystems</title>
+      <link>https://mdahlmanns.de/publication/2023-lohmoeller-transparency/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2023-lohmoeller-transparency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

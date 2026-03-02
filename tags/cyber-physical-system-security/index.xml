@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyber-Physical System Security | Markus Dahlmanns</title>
+    <link>https://mdahlmanns.de/tags/cyber-physical-system-security/</link>
+      <atom:link href="https://mdahlmanns.de/tags/cyber-physical-system-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cyber-Physical System Security</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdahlmanns.de/media/icon_hu_9af8cbb2a0e56fd6.png</url>
+      <title>Cyber-Physical System Security</title>
+      <link>https://mdahlmanns.de/tags/cyber-physical-system-security/</link>
+    </image>
+    
+    <item>
+      <title>Transparent End-to-End Security for Publish/Subscribe Communication in Cyber-Physical Systems</title>
+      <link>https://mdahlmanns.de/publication/2021-dahlmanns-entrust/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdahlmanns.de/publication/2021-dahlmanns-entrust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
